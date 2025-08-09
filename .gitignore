@@ -9,6 +9,8 @@ __pycache__/
 venv/
 *.csv
 *.pkl
+*.h5
+logs/
 
 # Distribution / packaging
 .Python
