@@ -8,7 +8,6 @@ __pycache__/
 
 venv/
 *.csv
-*.h5
 logs/
 
 # Distribution / packaging
